@@ -25,7 +25,7 @@ PoorControl is a dedicated developer eager to learn and contribute to open-sourc
 
 ## 📫 Contact Me
 
-- Email: [poorcontrol@example.com](mailto:poorcontrol@gmail.com)
+- Email: [poorcontrol@gmail.com](mailto:poorcontrol@gmail.com)
 - Twitter: [Poor_Control](https://twitter.com/Poor_Control)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
